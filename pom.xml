@@ -9,7 +9,7 @@
 		<version>2.4.3</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ashwin.web</groupId>
+	<groupId>com.webdemo</groupId>
 	<artifactId>web-demo-lgri</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringMysqlDemo</name>
